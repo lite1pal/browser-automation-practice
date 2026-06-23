@@ -1,0 +1,476 @@
+{
+  "cookies": [
+    {
+      "name": "file_token",
+      "value": "v02%3Afile_token%3As1LnXo_8NRukX9ujJIn1x9mcXZmFj34SytvSe0H6hjb3GBc4VHIQvFfAeIhAYiEK1jVNO3nHOaTo3pYCqQNylgIT3Zng4I5PaKmIFK_N3vVB7NxptIJkehTULqGNmfW33-vklnEUBIuAIb32lcOKmfNdJ58X",
+      "domain": ".notion.com",
+      "path": "/f",
+      "expires": 1813736929.822698,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "device_id",
+      "value": "388d872b-594c-8152-a943-003bd7b1e1bf",
+      "domain": ".app.notion.com",
+      "path": "/",
+      "expires": 1813736897.572383,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notion_check_cookie_consent",
+      "value": "true",
+      "domain": ".notion.com",
+      "path": "/",
+      "expires": 1782287297.572409,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notion_experiment_device_id",
+      "value": "308b8cd4-2085-4471-ace4-4d150b4e1795",
+      "domain": ".notion.com",
+      "path": "/",
+      "expires": 1813736898,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "onetap_nonce",
+      "value": "831baed6-1dc3-4401-a221-3df88940abb4",
+      "domain": "app.notion.com",
+      "path": "/",
+      "expires": 1782204498.463888,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1782200898620,\"i_b\":\"wbj3tqxRZG9k/SzHQER7YGU4NbyDBaNxyJEaf+/tPf0\",\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1782200898620}",
+      "domain": "app.notion.com",
+      "path": "/",
+      "expires": 1797752898,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csrf",
+      "value": "b3b6297f-3e08-4c1c-ae7f-c7c0a3309e1a",
+      "domain": ".app.notion.com",
+      "path": "/",
+      "expires": 1782287315.190821,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "token_v2",
+      "value": "v03%3AeyJhbGciOiJkaXIiLCJraWQiOiJwcm9kdWN0aW9uOnRva2VuLXYzOjIwMjQtMTEtMDciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIn0..Q5UmGepfIp6gTu82KV8fFg.O1paxpZsPlF1uGLXXirxMYmPPA2X8USdFwnQBXNYRYTvMKf-0eGmizjJoFXYbQ5SkAXZjyfmLl0vqa_3W8B9RRuzZzWEF_varkOCiCI7uAsQLyawjUxAFq0thUBv_fqeXzXo1X_NoD6MUayEy6sEHy-rnC6y6y4fMefB-d1RAc6OeVjqCKMzvRTJ_zmKY5MC_boY6dnpk3vZgimUTmKBhudjY2bMNquaBOzfclAjRNjYwTKIFdfhbJxT-Q_JGVu7TbJf7s8kPfpuDerAfFdSO0X8SxwOhIHCt--HGn15_G8-xXqKYVymkhZRzSRQmVO4XjF22YDEyZTjTWGj7HwmM_M4Qh1bciQVwbCmHzkLauE.NrnQXPT7ZXX9ZWgBpKli9PLHIuj9WUcqOBtPDk0cuUA",
+      "domain": ".app.notion.com",
+      "path": "/",
+      "expires": 1813736929.822849,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notion_user_id",
+      "value": "731fc314-ea5b-4115-87ab-1162e96702b7",
+      "domain": ".app.notion.com",
+      "path": "/",
+      "expires": 1813736929.822927,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notion_sync_user_id",
+      "value": "%7B%22notion_user_id%22%3A%22731fc314-ea5b-4115-87ab-1162e96702b7%22%2C%22is_logged_in%22%3Atrue%2C%22version%22%3A4%7D",
+      "domain": ".notion.com",
+      "path": "/",
+      "expires": 1789976929.822976,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NEXT_LOCALE",
+      "value": "en-US",
+      "domain": ".app.notion.com",
+      "path": "/",
+      "expires": 1813736931,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notion_users",
+      "value": "%5B%22731fc314-ea5b-4115-87ab-1162e96702b7%22%5D",
+      "domain": ".app.notion.com",
+      "path": "/",
+      "expires": 1813736929.823103,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "p_sync_session",
+      "value": "%7B%22tokenId%22%3A%22v02%3Async_session%3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-f9KTifTdPCX-nQfT4muF7u9h-MytbYGKknbSPCj2F07ufgzyXNNLs9Qc_mvLdHcjnhhhmyhyMbcnsM92otIRXje0Mm81bspPQVt%22%2C%22userIds%22%3A%5B%22731fc314-ea5b-4115-87ab-1162e96702b7%22%5D%7D",
+      "domain": ".notion.com",
+      "path": "/",
+      "expires": 1813736929.823144,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "io",
+      "value": "bvXsJiXas0KphxF0",
+      "domain": "msgstore-002.app.notion.com",
+      "path": "/",
+      "expires": 1782208130.431947,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-1",
+      "value": "_remove_",
+      "domain": "msgstore-002.app.notion.com",
+      "path": "/",
+      "expires": 1782805731.334004,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBAPP-2",
+      "value": "_remove_",
+      "domain": "msgstore-002.app.notion.com",
+      "path": "/",
+      "expires": 1782805731.334025,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBAPP-3",
+      "value": "_remove_",
+      "domain": "msgstore-002.app.notion.com",
+      "path": "/",
+      "expires": 1782805731.334041,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBAPP-0",
+      "value": "AAAAAAAAAAAGqG45DWuZqh6R4/pDWg7n8tA3kezCM4N5cYtkxBpBH5V9T/UyWDC8tw1EW+Dr3mA5f4iNs/J27UQ2Vex/HUNsw2JQkhDUtHVRRIJGMXKlQ2tPF4gCjFNXvtTyTTxXiJSDuwSx",
+      "domain": "msgstore-002.app.notion.com",
+      "path": "/",
+      "expires": 1782805731.333953,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "8W5Jfl9j8l.HB6UOYLexPyckJGMMyhK69F64ea8pXXE-1782200931.2273507-1.0.1.1-QwrmpTiLFU_awJ6EEmG6GlSGD2ULijKHFKIfeODQ9Cs",
+      "domain": ".notion.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notion_locale",
+      "value": "en-US/autodetect",
+      "domain": ".app.notion.com",
+      "path": "/",
+      "expires": 1813736931,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "SjwK2qz7B528YvbkccwA.UpY9ygkcUAA30bbiKygpfY-1782200932.9599054-1.0.1.1-iuMASy44tdd7eDODkgPB7CwmxXbP_vlfkr5TOPw3sbHyGTcGpBDPPZB9_zJKUR00d9dbUVzfy89QlRTHMGfqC_QjUKF43cXy1kXrhsxAKUsNexC_Rh8l3ApDHoT3BxrI",
+      "domain": ".notionusercontent.com",
+      "path": "/",
+      "expires": 1782202733.667056,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "Q8mAI8BznHSzZKjigrFMgxpjja_xy6sGZ_YxN5DwqhM-1782200933.9251468-1.0.1.1-ZBnM2boGo_tjK8QXe1AmAL2EJ42yOoyF2kPEqXGZOBXrBfREgeL5HrmluS2OO_cbYt_hWJtadADzDttfwRF3eZK0zZt856k6J5GFYF6Es_8srzofhTsXO9fpnxAnKs7I",
+      "domain": ".notion.com",
+      "path": "/",
+      "expires": 1782202734.070188,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": ".tOa0My1MKxoLI7Ih9TMxAtr4x4I2vLuPhcqUbOLBPM-1782200934.179884-1.0.1.1-YsNxnbRvvJEwMZmJ6jH3GjWQzaIeVZObIQ7i9KmVctjjEseYie9uCgZTKoQA_YGyzHpzEmxGGvnxlvFWToFW5xbkyG08K5gWKp9dN.ejSTcwPm_Y0WxBLGf4JqqdcJ20",
+      "domain": ".identity.notion.com",
+      "path": "/",
+      "expires": 1782202734.166716,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "auth_sync_message_accountSwitcher",
+      "value": "%7B%22message%22%3A%7B%22version%22%3A1%2C%22name%22%3A%22accountSwitcher%22%2C%22source%22%3A%22notion%22%2C%22accounts%22%3A%5B%7B%22id%22%3A%22731fc314-ea5b-4115-87ab-1162e96702b7%22%2C%22displayName%22%3A%22Lite%20Pal%22%2C%22emailAddress%22%3A%22deniskatarasenko6%40gmail.com%22%2C%22profilePicture%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAItbvmmTG9CGbVI64jYWx0SZEGcd8DmUJ4w2HdZcnJKaog%3Ds100%22%7D%5D%2C%22persistCookie%22%3Atrue%7D%2C%22origin%22%3A%22https%3A%2F%2Fapp.notion.com%22%2C%22messageID%22%3A%229718626c-0c78-434d-8617-790004cd84f1%22%7D",
+      "domain": ".identity.notion.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.notion.com",
+      "localStorage": [
+        {
+          "name": "LRU:KeyValueStore2:sidebarLatencyGates:731fc314-ea5b-4115-87ab-1162e96702b7",
+          "value": "{\"timestamp\":1782200932139,\"value\":{\"prefetchSharedAndPrivatePages\":true,\"enableSidebarStateCache\":true,\"deferSidebarLoadingWhenCollapsed\":false,\"lazierLoadSidebarComponents\":false,\"skipCollapsedSidebarSkeleton\":true},\"important\":true}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:{AIUsageEligibilityStoreV2_C}:8613dd39-ad38-46f7-a6d2-35e740e30dbb",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:{AIUsageEligibilityStoreV2_C}:8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"value\":{\"__withLocalCacheVersion\":1,\"cachedAtMs\":1782200933055,\"data\":{\"value\":{\"lastUpdatedAt\":1782200933055,\"basicCredits\":{\"spaceUsage\":0,\"userUsage\":0,\"userPromotionalUsage\":0,\"spaceLimit\":75,\"userLimit\":75,\"userPromotionalLimit\":0},\"premiumCredits\":{\"totalCreditBalance\":0,\"creditsInOverage\":0,\"overageLimit\":0,\"perSource\":{\"monthlyAllocated\":{\"usageTotal\":0,\"limit\":0},\"monthlyCommitted\":{\"usageTotal\":0,\"limit\":0},\"yearlyElastic\":{\"usageTotal\":0,\"limit\":0}}}},\"dependencies\":[{\"key\":\"ai_usage_eligibility/8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"version\":-1}]}},\"timestamp\":1782200933055,\"important\":false}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:forkPageTemplate",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:forkPageTemplate\",\"value\":{},\"timestamp\":1782200931437,\"important\":false}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:helpButtonReleaseNotes",
+          "value": "{\"id\":\"KeyValueStore2:helpButtonReleaseNotes\",\"value\":{\"releases\":[{\"title\":\"Merge cells in simple tables\",\"releaseDate\":\"2026-05-26\",\"byline\":\"Merge cells in simple tables\"},{\"title\":\"3.5: Notion Developer Platform\",\"releaseDate\":\"2026-05-13\",\"byline\":\"3.5: Notion Developer Platform\"},{\"title\":\"Plan Mode\",\"releaseDate\":\"2026-05-07\",\"byline\":\"Plan Mode\"}],\"fetchedAt\":1782200932483,\"locale\":\"en-US\"},\"timestamp\":1782200932483,\"important\":false}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:sidebarSection:isTruncated:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7:shared",
+          "value": "{\"timestamp\":1782200932583,\"value\":false,\"important\":true}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:guest:forkPageTemplate",
+          "value": "{\"id\":\"LocalPreferenceStore3:guest:forkPageTemplate\",\"value\":{},\"timestamp\":1782200929830,\"important\":false}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:spaceIdToShortId",
+          "value": "{\"id\":\"KeyValueStore2:spaceIdToShortId\",\"value\":{\"8613dd39-ad38-46f7-a6d2-35e740e30dbb\":\"58756614211\"},\"important\":true}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:LocalBacklinkStore2:240dae2a-c843-8036-a4a4-e0d28841a56d",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:LocalBacklinkStore2:240dae2a-c843-8036-a4a4-e0d28841a56d\",\"value\":{\"backlinks\":[],\"inaccessibleBacklinkCount\":0},\"timestamp\":1782200932819,\"important\":false}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:lastVisitedRouteUserId",
+          "value": "{\"id\":\"KeyValueStore2:lastVisitedRouteUserId\",\"value\":\"731fc314-ea5b-4115-87ab-1162e96702b7\",\"important\":true}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:{BillingDataStore4}:8613dd39-ad38-46f7-a6d2-35e740e30dbb",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:{BillingDataStore4}:8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"value\":{\"__withLocalCacheVersion\":1,\"cachedAtMs\":1782200931761,\"data\":{\"value\":{\"clock\":{\"now\":\"2026-06-23T07:48:51.723+00:00\"},\"invoices\":[],\"taxIds\":[],\"accountBalances\":[],\"hasPaidNonzero\":false,\"type\":\"admin\"},\"dependencies\":[{\"key\":\"billing_data_key/8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"version\":-1}]}},\"timestamp\":1782200931761,\"important\":false}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:sidebar:visibleSections:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7",
+          "value": "{\"timestamp\":1782200932583,\"value\":[\"meetings_today\",\"recents\",\"agents\",\"shared\",\"private\"],\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:userSignals:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7:0",
+          "value": "{\"id\":\"KeyValueStore2:userSignals:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7:0\",\"value\":{\"lastUpdatedTime\":1782200931817,\"recentPages\":[],\"similarUserRecentPages\":{},\"topPages7dPageView\":[],\"editedPages\":[],\"similarUsersEditedPages\":[],\"meetingAttendeePages\":[],\"inboxPages\":[]},\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:sidebarSection:isTruncated:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7:private",
+          "value": "{\"timestamp\":1782200932583,\"value\":false,\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:firstPageInSidebar:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb",
+          "value": "{\"id\":\"KeyValueStore2:firstPageInSidebar:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"value\":\"240dae2a-c843-8036-a4a4-e0d28841a56d\",\"important\":true}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb:analytics_session",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb:analytics_session\",\"value\":{\"id\":\"30324152-b7b2-4dd6-9e97-5a3ef6c6a85b\",\"sessionStartTime\":1782200931502,\"lastFocusedTime\":1782200931502},\"timestamp\":1782200933976,\"important\":false}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:secondary_sidebar",
+          "value": "{\"id\":\"KeyValueStore2:secondary_sidebar\",\"value\":{\"openState\":\"closed\",\"contentType\":\"none\",\"mode\":\"peek\",\"modeByContentType\":{\"none\":\"peek\",\"inbox\":\"peek\",\"private_pages\":\"peek\",\"shared_pages\":\"peek\",\"favorites_pages\":\"peek\",\"assistant\":\"peek\",\"teams\":\"peek\",\"agents\":\"peek\",\"slippery_slope_chat\":\"panel\"},\"widths\":{\"none\":320,\"inbox\":390,\"private_pages\":320,\"shared_pages\":320,\"favorites_pages\":320,\"assistant\":320,\"teams\":320,\"agents\":320,\"slippery_slope_chat\":320}},\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:lastKnownSlipperySlopeEnabled:8613dd39-ad38-46f7-a6d2-35e740e30dbb",
+          "value": "{\"timestamp\":1782200932138,\"value\":true,\"important\":true}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:\\zXJ",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:\\\\zXJ\",\"value\":{\"scrollTop\":0,\"blockIds\":[],\"index\":0},\"timestamp\":1782200930690,\"important\":false}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:getRecentlyNavigatedCollections:8613dd39-ad38-46f7-a6d2-35e740e30dbb",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:getRecentlyNavigatedCollections:8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"value\":\"[\\\"240dae2a-c843-8127-a93d-000b35378ea6\\\"]\",\"timestamp\":1782200932611,\"important\":false}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:SubscriptionData:8613dd39-ad38-46f7-a6d2-35e740e30dbb:v2",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:SubscriptionData:8613dd39-ad38-46f7-a6d2-35e740e30dbb:v2\",\"value\":{\"type\":\"unsubscribed_admin\",\"users\":[{\"userId\":\"731fc314-ea5b-4115-87ab-1162e96702b7\",\"membershipType\":\"owner\",\"firstJoinedSpaceTime\":0,\"aliases\":[\"deniskatarasenko6@gmail.com\"]}],\"members\":[],\"joinedMemberIds\":[],\"spaceUsers\":[],\"userSimilarity\":{},\"blockUsage\":0,\"hasPaidNonzero\":false,\"customerData\":{\"stripe\":{\"accountBalance\":0,\"addOns\":[],\"hasPaidNonzero\":false},\"revenueCat\":{\"isSubscribed\":false,\"hasPaidNonzero\":false,\"addOns\":[]},\"isSubscribed\":false,\"hasPaidNonzero\":false},\"revenueCatEnabled\":true,\"subscriptionTier\":\"free\",\"addOns\":[],\"accountBalance\":0,\"shouldUseEdgeCache\":false},\"timestamp\":1782200932488,\"important\":false}"
+        },
+        {
+          "name": "LRU:calendarBrowserSubscriptionLeader:lastLeaderWindowDimension",
+          "value": "{\"id\":\"calendarBrowserSubscriptionLeader:lastLeaderWindowDimension\",\"value\":{\"left\":22,\"top\":56},\"important\":true}"
+        },
+        {
+          "name": "AMP_notion",
+          "value": "{\"deviceId\":\"4fa0548a-2b5b-4355-87a6-ec1a22750619\",\"userId\":\"731fc314ea5b411587ab1162e96702b7\",\"sessionId\":1782200898396,\"optOut\":false,\"lastEventTime\":1782200933977,\"lastEventId\":83,\"pageCounter\":0}"
+        },
+        {
+          "name": "BlockFrecency:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb:version",
+          "value": "3"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb:sidebar_section_daily_snapshot",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb:sidebar_section_daily_snapshot\",\"value\":{\"dateBucket\":\"Tue Jun 23 2026\"},\"timestamp\":1782200932188,\"important\":false}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:CollectionView:240dae2a-c843-8036-a4a4-e0d28841a56d",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:CollectionView:240dae2a-c843-8036-a4a4-e0d28841a56d\",\"value\":\"240dae2a-c843-8159-8133-000c9fe3ceac\",\"timestamp\":1782200932793,\"important\":false}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:sidebarSection:recentsPages:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7",
+          "value": "{\"timestamp\":1782200933453,\"value\":[{\"metadata\":{\"pointer\":{\"table\":\"block\",\"id\":\"240dae2a-c843-8036-a4a4-e0d28841a56d\",\"spaceId\":\"8613dd39-ad38-46f7-a6d2-35e740e30dbb\"},\"title\":[[\"Social Media Content Planning System\"]],\"icon\":\"/icons/feed_gray.svg\"},\"sortTime\":1782200932064}],\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:searchFrecency:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7:0",
+          "value": "{\"id\":\"KeyValueStore2:searchFrecency:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7:0\",\"value\":{\"config\":{\"maxEvents\":1000,\"minPages\":100,\"maxVisitsPerPage\":7,\"visitTimestampGranularity\":\"minute\",\"isBackfilledFromRecentPageVisits\":true,\"backfillTime\":1782200931758},\"pages\":{\"240dae2a-c843-8036-a4a4-e0d28841a56d\":{\"t\":1,\"v\":[29703348]}},\"lastFrecencyUpdateFromRecentPageVisitsTime\":0},\"important\":true}"
+        },
+        {
+          "name": "STATSIG_LOCAL_STORAGE_STABLE_ID",
+          "value": "beb966c8-1117-4445-89b1-5917d34c35e6"
+        },
+        {
+          "name": "theme",
+          "value": "{\"mode\":\"light\"}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:guest:queryParamsRedirect",
+          "value": "{\"id\":\"LocalPreferenceStore3:guest:queryParamsRedirect\",\"timestamp\":1782200931438,\"important\":false}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:lastVisitedRouteSpaceViewId",
+          "value": "{\"id\":\"KeyValueStore2:lastVisitedRouteSpaceViewId\",\"value\":\"4b926689-22cc-46d6-ac68-7479a940312d\",\"important\":true}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:zNU}",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:zNU}\",\"value\":{\"scrollTop\":0,\"blockIds\":[],\"index\":0},\"timestamp\":1782200932073,\"important\":false}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:{FeatureBillingDataStore2}:8613dd39-ad38-46f7-a6d2-35e740e30dbb",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:{FeatureBillingDataStore2}:8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"value\":{\"__withLocalCacheVersion\":1,\"cachedAtMs\":1782200931750,\"data\":{\"value\":{\"billingData\":{\"type\":\"public\",\"clock\":{\"now\":\"2026-06-23T07:48:51.713+00:00\"}},\"overrides\":{},\"dependencies\":[{\"key\":\"billing_data_key/8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"version\":-1}]},\"dependencies\":[{\"key\":\"billing_data_key/8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"version\":-1}]}},\"timestamp\":1782200931750,\"important\":false}"
+        },
+        {
+          "name": "BlockFrecency:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb:3:keys",
+          "value": "[\"240dae2a-c843-8036-a4a4-e0d28841a56d\"]"
+        },
+        {
+          "name": "LRU:KeyValueStore2:inbox:unreadCount:currentSpace:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7",
+          "value": "{\"timestamp\":1782200934642,\"value\":0,\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:current-user-id",
+          "value": "{\"id\":\"KeyValueStore2:current-user-id\",\"value\":\"731fc314-ea5b-4115-87ab-1162e96702b7\",\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:sidebarSection:itemStores:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7:shared",
+          "value": "{\"timestamp\":1782200932583,\"value\":[],\"important\":true}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:BUpQ",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:BUpQ\",\"value\":{\"scrollTop\":0,\"blockIds\":[],\"index\":0},\"timestamp\":1782200932078,\"important\":false}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:guest:acmQ",
+          "value": "{\"id\":\"LocalPreferenceStore3:guest:acmQ\",\"value\":{\"scrollTop\":0,\"blockIds\":[],\"index\":0},\"timestamp\":1782200898067,\"important\":false}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:property_groups_module_state",
+          "value": "{\"id\":\"KeyValueStore2:property_groups_module_state\",\"value\":{\"propertyGroupOpenOverridesMap\":{}},\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:sidebarSection:itemStores:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7:private",
+          "value": "{\"timestamp\":1782200932583,\"value\":[{\"pointer\":{\"table\":\"block\",\"id\":\"240dae2a-c843-8036-a4a4-e0d28841a56d\",\"spaceId\":\"8613dd39-ad38-46f7-a6d2-35e740e30dbb\"},\"title\":[[\"Social Media Content Planning System\"]],\"icon\":\"/icons/feed_gray.svg\"},{\"pointer\":{\"table\":\"block\",\"id\":\"1fadae2a-c843-80ad-8322-cea0692c54b4\",\"spaceId\":\"8613dd39-ad38-46f7-a6d2-35e740e30dbb\"},\"title\":[[\"Digital Marketing Made Simple: A Guide Anyone Can Follow [One Page Read]\"]],\"icon\":\"attachment:04bc3d36-5e49-44d8-833c-b8ce2595cb2e:book.png\"},{\"pointer\":{\"table\":\"block\",\"id\":\"173dae2a-c843-80c6-ab56-ef9052a6e302\",\"spaceId\":\"8613dd39-ad38-46f7-a6d2-35e740e30dbb\"},\"title\":[[\"Projects & Tasks\"]],\"icon\":\"/icons/banana_yellow.svg\"},{\"pointer\":{\"table\":\"block\",\"id\":\"c8d8d86b-98a8-40b7-8179-238c05abd1a1\",\"spaceId\":\"8613dd39-ad38-46f7-a6d2-35e740e30dbb\"},\"title\":[[\"Old journal\"]],\"icon\":\"🦘\"}],\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:onAppStartPreference:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb",
+          "value": "{\"id\":\"KeyValueStore2:onAppStartPreference:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"value\":\"last_visited_page\",\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:lastKnownAppJsVersion",
+          "value": "{\"id\":\"KeyValueStore2:lastKnownAppJsVersion\",\"value\":{\"version\":[23,13,20260623,310],\"time\":1782184263054},\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:lastVisitedRouteSpaceId",
+          "value": "{\"id\":\"KeyValueStore2:lastVisitedRouteSpaceId\",\"value\":\"8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:sidebarSection:recentsChats:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7",
+          "value": "{\"timestamp\":1782200933064,\"value\":[],\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:lastVisitedRoute",
+          "value": "{\"id\":\"KeyValueStore2:lastVisitedRoute\",\"value\":{\"name\":\"page\",\"blockId\":\"240dae2a-c843-8036-a4a4-e0d28841a56d\",\"requestedOnPublicDomain\":false,\"requestedOnAlternateDomain\":true,\"collectionViewId\":\"240dae2a-c843-8159-8133-000c9fe3ceac\",\"showMoveTo\":false,\"saveParent\":false,\"shouldDuplicate\":false,\"projectManagementLaunch\":false,\"configureOpenInDesktopApp\":false,\"pageVisitSource\":\"47\",\"mobileData\":{\"isPush\":false},\"demoWorkspaceMode\":false},\"important\":true}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:userSessionCount",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:userSessionCount\",\"value\":{\"count\":1,\"updatedAt\":1782200933739},\"timestamp\":1782200933976,\"important\":false}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:sidebar",
+          "value": "{\"id\":\"KeyValueStore2:sidebar\",\"value\":{\"expanded\":true,\"width\":270},\"important\":true}"
+        },
+        {
+          "name": "LRU:LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:UserSharedPagesInSpace:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb",
+          "value": "{\"id\":\"LocalPreferenceStore3:731fc314-ea5b-4115-87ab-1162e96702b7:UserSharedPagesInSpace:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb\",\"value\":[\"173dae2a-c843-80c6-ab56-ef9052a6e302\",\"1fadae2a-c843-80ad-8322-cea0692c54b4\",\"240dae2a-c843-8036-a4a4-e0d28841a56d\",\"401f474a-c5e6-40de-b964-531a59c8f4b5\",\"a0ea3b27-550a-4fe4-8376-10620cef2db0\",\"c8d8d86b-98a8-40b7-8179-238c05abd1a1\"],\"timestamp\":1782200934654,\"important\":false}"
+        },
+        {
+          "name": "OPFS:PageCache:BootupRegistry:config",
+          "value": "{\"isEnabled\":true,\"options\":{\"type\":\"shared-worker\"},\"preProcessFirstChunk\":true}"
+        },
+        {
+          "name": "BlockFrecency:731fc314-ea5b-4115-87ab-1162e96702b7:8613dd39-ad38-46f7-a6d2-35e740e30dbb:3::240dae2a-c843-8036-a4a4-e0d28841a56d",
+          "value": "{\"totalVisits\":2,\"recentVisits\":[{\"type\":\"Default\",\"timestamp\":1782200932064},{\"type\":\"Default\",\"timestamp\":1782200933080}]}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:collection-prefetch-cache:240dae2a-c843-8159-8133-000c9fe3ceac",
+          "value": "{\"id\":\"KeyValueStore2:collection-prefetch-cache:240dae2a-c843-8159-8133-000c9fe3ceac\",\"value\":{\"clientType\":\"notion_app\",\"source\":{\"type\":\"collection\",\"id\":\"240dae2a-c843-8127-a93d-000b35378ea6\",\"spaceId\":\"8613dd39-ad38-46f7-a6d2-35e740e30dbb\"},\"collectionView\":{\"id\":\"240dae2a-c843-8159-8133-000c9fe3ceac\",\"spaceId\":\"8613dd39-ad38-46f7-a6d2-35e740e30dbb\"},\"loader\":{\"reducers\":{\"board_columns\":{\"type\":\"groups\",\"version\":\"v2\",\"returnPinnedGroups\":true,\"groupBy\":{\"sort\":{\"type\":\"ascending\"},\"type\":\"status\",\"groupBy\":\"option\",\"property\":\"ATfC\",\"hideEmptyGroups\":false},\"groupSortPreference\":[{\"value\":{\"type\":\"status\",\"value\":{\"type\":\"by_option\",\"option\":\"Planning\"}},\"property\":\"ATfC\"},{\"value\":{\"type\":\"status\",\"value\":{\"type\":\"by_option\",\"option\":\"In Production\"}},\"property\":\"ATfC\"},{\"value\":{\"type\":\"status\",\"value\":{\"type\":\"by_option\",\"option\":\"Under Review\"}},\"hidden\":true,\"property\":\"ATfC\"},{\"value\":{\"type\":\"status\",\"value\":{\"type\":\"by_option\",\"option\":\"Published\"}},\"property\":\"ATfC\"},{\"value\":{\"type\":\"status\",\"value\":{\"type\":\"by_option\",\"option\":\"Cancelled\"}},\"property\":\"ATfC\"}],\"limit\":10,\"aggregation\":{\"type\":\"independent\",\"groupAggregation\":{\"aggregator\":\"count\",\"enforceMaxAggregationLimit\":true}},\"blockResults\":{\"type\":\"independent\",\"defaultLimit\":25,\"loadContentCover\":false,\"groupOverrides\":{}}}},\"sort\":[{\"property\":\"kBb~\",\"direction\":\"descending\"}],\"searchQuery\":\"\",\"archiveStatus\":\"NON_ARCHIVED\",\"userId\":\"731fc314-ea5b-4115-87ab-1162e96702b7\",\"userTimeZone\":\"Europe/Prague\"}},\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:sidebar:sectionOrder:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7",
+          "value": "{\"timestamp\":1782200932209,\"value\":[\"meetings_today\",\"recents\",\"favorites\",\"agents\",\"teamspaces\",\"shared\",\"private\",\"notion_apps\"],\"important\":true}"
+        },
+        {
+          "name": "LRU:KeyValueStore2:inbox:unreadCount:otherSpaces:8613dd39-ad38-46f7-a6d2-35e740e30dbb:731fc314-ea5b-4115-87ab-1162e96702b7",
+          "value": "{\"timestamp\":1782200934641,\"value\":0,\"important\":true}"
+        }
+      ]
+    },
+    {
+      "origin": "https://identity.notion.com",
+      "localStorage": [
+        {
+          "name": "notion_user_id",
+          "value": "731fc314-ea5b-4115-87ab-1162e96702b7"
+        }
+      ]
+    }
+  ]
+}

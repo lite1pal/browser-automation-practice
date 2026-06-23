@@ -1,21 +1,11 @@
-import { MockSaasProvisioner } from "./mock-saas-provisioner";
+import { NotionProvisioner } from "./notion-provisioner";
 
 async function main() {
-  console.log("Starting automation...");
+  const notion = new NotionProvisioner();
 
-  const provisioner = new MockSaasProvisioner();
-
-  const result = await provisioner.createUser({
-    email: "test@example.com",
-    firstName: "Test",
-    lastName: "User",
-    role: "Admin",
+  await notion.inviteUser({
+    email: "dev@denistarasenko.com",
   });
-
-  console.log("Result:", result);
 }
 
-main().catch((error) => {
-  console.error("Automation failed:", error);
-  process.exit(1);
-});
+main().catch(console.error);

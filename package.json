@@ -1,12 +1,13 @@
 {
-  "name": "accessowl-practice",
+  "name": "browser-automation-practice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsx src/index.ts",
-    "mock": "serve public -l 3000"
+    "mock": "serve public -l 3000",
+    "notion:login": "tsx src/save-notion-session.ts"
   },
   "keywords": [],
   "author": "",
