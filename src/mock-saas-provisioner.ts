@@ -13,15 +13,14 @@ export class MockSaasProvisioner
     try {
       if (!this.page) throw new Error("Page not initialized");
 
-      await this.page.goto("https://example.com");
+      await this.page.goto("http://localhost:3000/mock-saas.html");
 
-      // Placeholder for real SaaS flow:
-      // 1. login
-      // 2. navigate to admin/users
-      // 3. click invite user
-      // 4. fill email/role
-      // 5. submit
-      // 6. verify success state
+      await this.page.getByRole("button", { name: /invite user/i }).click();
+      await this.page.getByLabel(/email/i).fill(input.email);
+      await this.page.getByLabel(/role/i).selectOption("Admin");
+      await this.page.getByRole("button", { name: /send invite/i }).click();
+
+      await this.page.getByText(/invite sent successfully/i).waitFor();
 
       console.log(`Would invite ${input.email} to ${this.provider}`);
 

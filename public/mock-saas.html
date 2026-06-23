@@ -1,0 +1,33 @@
+<h1>Mock SaaS Admin</h1>
+
+<button id="invite-user">Invite user</button>
+
+<form id="invite-form" style="display: none">
+  <label>
+    Email
+    <input name="email" />
+  </label>
+
+  <label>
+    Role
+    <select name="role">
+      <option>Member</option>
+      <option>Admin</option>
+    </select>
+  </label>
+
+  <button type="submit">Send invite</button>
+</form>
+
+<p id="success" style="display: none">Invite sent successfully</p>
+
+<script>
+  document.getElementById("invite-user").onclick = () => {
+    document.getElementById("invite-form").style.display = "block";
+  };
+
+  document.getElementById("invite-form").onsubmit = (e) => {
+    e.preventDefault();
+    document.getElementById("success").style.display = "block";
+  };
+</script>
